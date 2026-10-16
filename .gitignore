@@ -1,0 +1,12 @@
+.env
+
+# Editor settings
+.vscode/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Brightway data and downloaded trade database (large)
+brightway/
+lca/trade_data.db

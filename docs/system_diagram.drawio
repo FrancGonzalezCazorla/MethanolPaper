@@ -1,0 +1,204 @@
+<mxfile host="65bd71144e" pages="2">
+    <diagram name="complex" id="6HbOsct5jlG-SKczF4NU">
+        <mxGraphModel dx="2524" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="99s0E9spj4lEm5ezs35p-0"/>
+                <mxCell id="99s0E9spj4lEm5ezs35p-1" parent="99s0E9spj4lEm5ezs35p-0"/>
+                <mxCell id="m2eUzzblv3nz5H7NxRBP-1" parent="99s0E9spj4lEm5ezs35p-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+                    <mxGeometry height="520" width="840" x="-280" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-2" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="99s0E9spj4lEm5ezs35p-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-3" parent="99s0E9spj4lEm5ezs35p-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" value="methanol production,&amp;nbsp;&lt;div&gt;CO&lt;sub&gt;2&lt;/sub&gt; hydrogenation&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="200" x="320" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-4" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="99s0E9spj4lEm5ezs35p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-5" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;carbon dioxide, captured&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="120" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-6" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="99s0E9spj4lEm5ezs35p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-7" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;hydrogen, elctrolitic&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="120" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-8" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;methanol&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="600" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-9" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="99s0E9spj4lEm5ezs35p-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-10" parent="99s0E9spj4lEm5ezs35p-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" value="hydrogen production, PEM electrolysis" vertex="1">
+                    <mxGeometry height="80" width="200" x="-160" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-11" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="99s0E9spj4lEm5ezs35p-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-12" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;water, ultrapure&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="-440" y="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-13" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="99s0E9spj4lEm5ezs35p-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-14" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;electricity, onshore wind&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="-440" y="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-15" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="99s0E9spj4lEm5ezs35p-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="99s0E9spj4lEm5ezs35p-16" parent="99s0E9spj4lEm5ezs35p-1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" value="carbon dioxide capture, point-source emission" vertex="1">
+                    <mxGeometry height="80" width="200" x="-160" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-7" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="5nY0bdkuh3UJulE1I4ew-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-3">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="242" y="280"/>
+                            <mxPoint x="370" y="280"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-0" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;electricity,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;grid&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="140" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-1" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="5nY0bdkuh3UJulE1I4ew-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="158" y="280"/>
+                            <mxPoint x="-10" y="280"/>
+                        </Array>
+                        <mxPoint x="-10" y="360" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-3" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="5nY0bdkuh3UJulE1I4ew-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-16">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-2" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;water,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;tap&lt;/span&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="-120" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-5" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="5nY0bdkuh3UJulE1I4ew-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-16">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-220" y="320"/>
+                            <mxPoint x="-110" y="320"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-4" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;zeolite, powder&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="-280" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-9" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="5nY0bdkuh3UJulE1I4ew-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-8" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;MP steam&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="410" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-13" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="5nY0bdkuh3UJulE1I4ew-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-14" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="5nY0bdkuh3UJulE1I4ew-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=line;jumpSize=14;" target="99s0E9spj4lEm5ezs35p-16">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-200" y="678"/>
+                            <mxPoint x="-200" y="480"/>
+                            <mxPoint x="-60" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-15" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="5nY0bdkuh3UJulE1I4ew-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="99s0E9spj4lEm5ezs35p-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-10" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;infrastructure&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="-441" y="666" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-16" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;wastewater&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="410" y="800" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-17" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="99s0E9spj4lEm5ezs35p-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5nY0bdkuh3UJulE1I4ew-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5nY0bdkuh3UJulE1I4ew-18" parent="99s0E9spj4lEm5ezs35p-1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;emissions&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="50" y="800" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ftKq7AEQUQ7hwAMOfpX-0" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="99s0E9spj4lEm5ezs35p-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;jumpStyle=line;jumpSize=14;" target="5nY0bdkuh3UJulE1I4ew-18">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="350" y="520"/>
+                            <mxPoint x="350" y="700"/>
+                            <mxPoint x="152" y="700"/>
+                        </Array>
+                        <mxPoint x="220" y="886" as="sourcePoint"/>
+                        <mxPoint x="100" y="660" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8ftKq7AEQUQ7hwAMOfpX-1" edge="1" parent="99s0E9spj4lEm5ezs35p-1" source="99s0E9spj4lEm5ezs35p-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;jumpStyle=line;jumpSize=14;" target="5nY0bdkuh3UJulE1I4ew-18">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-60" y="700"/>
+                            <mxPoint x="68" y="700"/>
+                        </Array>
+                        <mxPoint x="580" y="630" as="sourcePoint"/>
+                        <mxPoint x="350" y="950" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram name="simplified" id="vMkS_VkRSNbP5pXr3qLt">
+        <mxGraphModel dx="2524" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-9" edge="1" parent="1" source="MSQkCw-0U0BgBuhn-he7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MSQkCw-0U0BgBuhn-he7-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" value="methanol production,&amp;nbsp;&lt;div&gt;CO&lt;sub&gt;2&lt;/sub&gt; hydrogenation&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="200" x="320" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-6" edge="1" parent="1" source="MSQkCw-0U0BgBuhn-he7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="MSQkCw-0U0BgBuhn-he7-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;carbon dioxide, captured&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="120" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-7" edge="1" parent="1" source="MSQkCw-0U0BgBuhn-he7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="MSQkCw-0U0BgBuhn-he7-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;hydrogen, elctrolitic&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="120" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;methanol&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="600" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-11" edge="1" parent="1" source="MSQkCw-0U0BgBuhn-he7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MSQkCw-0U0BgBuhn-he7-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" value="hydrogen production, PEM electrolysis" vertex="1">
+                    <mxGeometry height="80" width="200" x="-160" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-13" edge="1" parent="1" source="MSQkCw-0U0BgBuhn-he7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="MSQkCw-0U0BgBuhn-he7-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;water, ultrapure&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="-360" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-15" edge="1" parent="1" source="MSQkCw-0U0BgBuhn-he7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="MSQkCw-0U0BgBuhn-he7-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;electricity, onshore wind&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="80" width="120" x="-360" y="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-17" edge="1" parent="1" source="MSQkCw-0U0BgBuhn-he7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MSQkCw-0U0BgBuhn-he7-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="MSQkCw-0U0BgBuhn-he7-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1" value="carbon dioxide capture, point-source emission" vertex="1">
+                    <mxGeometry height="80" width="200" x="-160" y="360" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

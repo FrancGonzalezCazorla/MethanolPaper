@@ -1,0 +1,34 @@
+name: methanol-paper
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - pip
+  - ipykernel=7.3.0
+  - numpy=1.26.4
+  - pandas=2.3.3
+  - matplotlib-base=3.11.0
+  - openpyxl=3.1.5
+  - tqdm=4.69.0
+  - ipywidgets=8.1.9  # progress bars (tqdm) in notebooks
+  - python-dotenv=1.2.2
+  # Brightway
+  - brightway2=2.4.6
+  - bw2data=3.6.6
+  - bw2calc=1.8.2
+  - bw2io=0.8.12
+  - bw2analyzer=0.10
+  - ecoinvent_interface=3.1
+  # HYSYS optimization (optimization/): also uses numpy, pandas, scipy, python-dotenv
+  - pywin32=312  # Windows only; win32com for the HYSYS COM interface
+  - pip:
+      - regioinvent==1.4.0.2
+      - constructive-geometries==1.0
+      - wurst==0.5.3
+      - geopandas==1.1.4
+      - shapely==2.1.2
+      - pyogrio==0.13.0
+      - pyproj==3.7.2
+      - scipy==1.17.1
+      - rapidfuzz==3.14.6
