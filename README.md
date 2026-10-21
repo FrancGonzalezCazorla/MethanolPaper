@@ -99,7 +99,9 @@ The stream, operation and spreadsheet names are hard-coded in the connection cel
 
 ## 2. LCA
 
-Open `lca/lca_methanol.ipynb` with the `methanol-paper` environment as kernel. Run it from top to bottom; the first run is slow because it downloads ecoinvent and builds the regionalized databases (later runs reuse them from the Brightway project `Methanol_LCA`). The notebook:
+Open `lca/lca_methanol.ipynb` with the `methanol-paper` environment as kernel. Run it from top to bottom; the first run is slow because it downloads ecoinvent and builds the regionalized databases (later runs reuse them from the Brightway project `Methanol_LCA`). The first line of the first code cell is `USE_CACHED_FOREGROUND`. Set it to `False` after editing `inventories.xlsx` so the foreground inventories (and their localized copies) are deleted and rebuilt from the Excel; set it to `True` to reuse the ones already stored in Brightway, which is faster. The ecoinvent and regioinvent databases are never rebuilt once they exist.
+
+The notebook:
 
 1. Imports ecoinvent 3.10 (cutoff) into the Brightway project.
 2. Imports the foreground inventories from `inventories.xlsx` (CO₂ hydrogenation methanol, PEM electrolysis hydrogen, point-source CO₂ capture) and computes their global (GLO) GWP100.
